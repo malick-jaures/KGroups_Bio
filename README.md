@@ -17,7 +17,7 @@ My algorithm (KGroups) uses clustering for feature selection instead of sorting 
 
 * To play around with different binning technique (including ours), use [classification/binnings.ipynb](classification/binnings.ipynb)
 
-* To generate experimental data for all the datasets, please use [classification/run_experiments_on_all_datasets.py](classification/run_experiments_on_all_datasets.py). You can run this Python file in the Terminal by typing `python3 run_experiments_on_all_datasets.py` or running this Jupyter notebook file [classification/run_python_file.ipynb](classification/run_python_file.ipynb) (Need Python 3.8 at least). The results will be saved in csv files located at [classification/outputs/dataframes](classification/outputs/dataframes)
+* To generate experimental data for all the datasets using all the feature, please use [classification/default_data_with_all_features.py](classification/default_data_with_all_features.py). You can run this Python file in the Terminal by typing `python3 classification/default_data_with_all_features.py` or running this Jupyter notebook file [classification/run_python_file.ipynb](classification/run_python_file.ipynb) (Need Python 3.8 at least). The results will be saved in csv files located at [classification/outputs/dataframes](classification/outputs/dataframes)
 
 * To have the same tables as the ones presented in the paper use [classification/FS_results_extraction.ipynb](classification/FS_results_extraction.ipynb). The resulting csv files will be stored at [classification/outputs/extracted_results](classification/outputs/extracted_results)
 
