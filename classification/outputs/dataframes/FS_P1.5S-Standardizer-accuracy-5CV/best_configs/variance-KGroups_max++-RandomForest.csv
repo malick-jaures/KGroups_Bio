@@ -1,0 +1,15 @@
+dataset_name,num_desired_features,num_selected_features,test_accuracy,test_accuracy_std,model_name,selection_algorithm,valuation_method,include_lowest,CPU_time,Wall_time
+ALLAML,4,4,95.9,3.74,RandomForest,KGroups_max++,variance,False,0:02:45.601142,0:02:46.627285
+CLL_SUB_111,14,11,69.41000000000001,9.66,RandomForest,KGroups_max++,variance,False,0:03:25.483249,0:03:26.746687
+Carcinom,18,12,75.85,4.42,RandomForest,KGroups_max++,variance,False,0:04:18.732893,0:04:20.268236
+GLIOMA,19,10,88.0,8.37,RandomForest,KGroups_max++,variance,False,0:02:56.635204,0:02:57.710224
+GLI_85,7,7,91.76,6.710000000000001,RandomForest,KGroups_max++,variance,False,0:02:59.977793,0:03:01.098990
+Prostate_GE,25,17,95.1,6.99,RandomForest,KGroups_max++,variance,False,0:03:06.238612,0:03:07.405995
+SMK_CAN_187,2,2,71.05,14.71,RandomForest,KGroups_max++,variance,False,0:03:33.882740,0:03:35.221023
+TOX_171,5,5,60.870000000000005,8.04,RandomForest,KGroups_max++,variance,False,0:03:52.426632,0:03:53.836923
+colon,4,4,80.77,6.47,RandomForest,KGroups_max++,variance,False,0:02:49.296003,0:02:50.335546
+leukemia,6,6,98.67,2.98,RandomForest,KGroups_max++,variance,False,0:02:46.474778,0:02:47.509744
+lung,8,8,90.17,4.9,RandomForest,KGroups_max++,variance,False,0:03:48.084984,0:03:49.487880
+lung_discrete,7,6,71.05,6.75,RandomForest,KGroups_max++,variance,False,0:03:13.215611,0:03:14.377448
+lymphoma,7,6,68.74,9.87,RandomForest,KGroups_max++,variance,False,0:03:26.290013,0:03:27.532358
+nci9,8,7,33.33,13.18,RandomForest,KGroups_max++,variance,False,0:03:24.486575,0:03:25.688914

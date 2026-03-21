@@ -1,0 +1,15 @@
+dataset_name,num_desired_features,num_selected_features,test_accuracy,test_accuracy_std,model_name,selection_algorithm,valuation_method,include_lowest,CPU_time,Wall_time
+ALLAML,77,53,98.67,2.98,MLP,KGroups_max,entropy,False,0:03:12.627748,0:03:13.892530
+CLL_SUB_111,2,2,45.85,6.38,MLP,KGroups_max,entropy,False,0:03:16.965957,0:03:18.478341
+Carcinom,100,96,82.13000000000001,6.75,MLP,KGroups_max,entropy,False,0:05:54.470671,0:05:57.011006
+GLIOMA,8,8,82.0,8.37,MLP,KGroups_max,entropy,False,0:03:26.571163,0:03:28.154801
+GLI_85,2,2,69.41000000000001,13.41,MLP,KGroups_max,entropy,False,0:03:02.411297,0:03:03.752314
+Prostate_GE,87,84,87.38,8.66,MLP,KGroups_max,entropy,False,0:03:42.976252,0:03:44.570884
+SMK_CAN_187,3,3,67.30000000000001,8.260000000000002,MLP,KGroups_max,entropy,False,0:04:40.624457,0:04:42.630544
+TOX_171,11,9,55.58,5.74,MLP,KGroups_max,entropy,False,0:04:17.665471,0:04:19.754323
+colon,92,37,85.77,11.38,MLP,KGroups_max,entropy,False,0:03:07.186140,0:03:08.574636
+leukemia,87,64,100.0,0.0,MLP,KGroups_max,entropy,False,0:03:17.459739,0:03:18.900738
+lung,93,73,93.59,2.8400000000000003,MLP,KGroups_max,entropy,False,0:04:53.383924,0:04:55.455130
+lung_discrete,77,36,90.38,6.08,MLP,KGroups_max,entropy,False,0:03:35.746939,0:03:37.264964
+lymphoma,92,43,88.53,12.02,MLP,KGroups_max,entropy,False,0:03:53.232826,0:03:54.868741
+nci9,92,60,61.67,11.18,MLP,KGroups_max,entropy,False,0:03:56.601372,0:03:58.227814

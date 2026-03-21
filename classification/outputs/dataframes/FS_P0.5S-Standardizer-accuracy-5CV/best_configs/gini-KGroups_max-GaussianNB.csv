@@ -1,0 +1,15 @@
+dataset_name,num_desired_features,num_selected_features,test_accuracy,test_accuracy_std,model_name,selection_algorithm,valuation_method,include_lowest,CPU_time,Wall_time
+ALLAML,21,13,100.0,0.0,GaussianNB,KGroups_max,gini_importance,False,0:03:06.871268,0:03:08.157241
+CLL_SUB_111,70,39,83.72,7.000000000000001,GaussianNB,KGroups_max,gini_importance,False,0:03:56.925944,0:03:58.727691
+Carcinom,19,18,79.83,8.790000000000001,GaussianNB,KGroups_max,gini_importance,False,0:05:21.637343,0:05:24.068602
+GLIOMA,58,38,84.0,13.420000000000002,GaussianNB,KGroups_max,gini_importance,False,0:03:23.826466,0:03:25.398775
+GLI_85,4,4,92.94,2.63,GaussianNB,KGroups_max,gini_importance,False,0:03:19.362832,0:03:20.954978
+Prostate_GE,12,9,95.1,6.99,GaussianNB,KGroups_max,gini_importance,False,0:03:20.879377,0:03:22.528823
+SMK_CAN_187,13,11,76.42999999999999,8.4,GaussianNB,KGroups_max,gini_importance,False,0:04:21.484263,0:04:23.577740
+TOX_171,94,48,74.3,4.53,GaussianNB,KGroups_max,gini_importance,False,0:04:41.773285,0:04:43.954381
+colon,87,34,90.0,10.87,GaussianNB,KGroups_max,gini_importance,False,0:03:04.518214,0:03:06.011682
+leukemia,7,7,98.67,2.98,GaussianNB,KGroups_max,gini_importance,False,0:03:04.004294,0:03:05.527161
+lung,21,17,94.12,5.34,GaussianNB,KGroups_max,gini_importance,False,0:04:39.397142,0:04:41.619721
+lung_discrete,33,20,82.1,6.58,GaussianNB,KGroups_max,gini_importance,False,0:03:35.809092,0:03:37.358096
+lymphoma,22,19,71.05,13.16,GaussianNB,KGroups_max,gini_importance,False,0:03:57.683836,0:03:59.368129
+nci9,82,37,55.00000000000001,9.5,GaussianNB,KGroups_max,gini_importance,False,0:03:44.084031,0:03:45.609164

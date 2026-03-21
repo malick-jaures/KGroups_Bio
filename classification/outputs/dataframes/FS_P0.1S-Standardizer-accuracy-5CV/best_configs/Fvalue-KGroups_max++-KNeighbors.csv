@@ -1,0 +1,15 @@
+dataset_name,num_desired_features,num_selected_features,test_accuracy,test_accuracy_std,model_name,selection_algorithm,valuation_method,include_lowest,CPU_time,Wall_time
+ALLAML,27,12,98.57,3.19,KNeighbors,KGroups_max++,Fvalue,False,0:03:02.906150,0:03:04.133099
+CLL_SUB_111,42,14,74.86,10.07,KNeighbors,KGroups_max++,Fvalue,False,0:03:38.916086,0:03:40.349231
+Carcinom,21,3,28.71,5.17,KNeighbors,KGroups_max++,Fvalue,False,0:04:09.526385,0:04:11.119807
+GLIOMA,6,4,86.0,11.4,KNeighbors,KGroups_max++,Fvalue,False,0:03:07.624202,0:03:08.871048
+GLI_85,4,4,95.29,4.92,KNeighbors,KGroups_max++,Fvalue,False,0:03:22.509304,0:03:23.858245
+Prostate_GE,52,18,95.05,8.66,KNeighbors,KGroups_max++,Fvalue,False,0:03:13.890447,0:03:15.206631
+SMK_CAN_187,99,66,74.88,11.38,KNeighbors,KGroups_max++,Fvalue,False,0:04:29.500512,0:04:31.278533
+TOX_171,33,17,67.25999999999999,4.73,KNeighbors,KGroups_max++,Fvalue,False,0:04:30.131243,0:04:31.876165
+colon,46,23,90.13,9.16,KNeighbors,KGroups_max++,Fvalue,False,0:03:02.502573,0:03:03.704411
+leukemia,67,14,98.67,2.98,KNeighbors,KGroups_max++,Fvalue,False,0:02:54.030343,0:02:55.163150
+lung,66,20,95.56,2.68,KNeighbors,KGroups_max++,Fvalue,False,0:04:09.781320,0:04:11.374995
+lung_discrete,88,39,93.05,5.06,KNeighbors,KGroups_max++,Fvalue,False,0:03:30.758613,0:03:32.082119
+lymphoma,66,37,90.53,8.649999999999999,KNeighbors,KGroups_max++,Fvalue,False,0:03:51.052888,0:03:52.483248
+nci9,2,2,26.67,6.97,KNeighbors,KGroups_max++,Fvalue,False,0:03:06.086594,0:03:07.235991

@@ -1,0 +1,15 @@
+dataset_name,test_accuracy
+ALLAML,87.88±7.31
+CLL_SUB_111,65.39±6.38
+Carcinom,85.13±7.27
+GLIOMA,62.67±16.54
+GLI_85,77.63±8.39
+Prostate_GE,81.34±11.16
+SMK_CAN_187,67.52±2.57
+TOX_171,78.94±7.46
+colon,77.11±6.14
+leukemia,87.88±6.98
+lung,84.02±15.75
+lung_discrete,77.58±15.61
+lymphoma,75.06±19.38
+nci9,43.33±8.8

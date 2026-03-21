@@ -1,0 +1,15 @@
+dataset_name,num_desired_features,num_selected_features,test_accuracy,test_accuracy_std,model_name,selection_algorithm,valuation_method,include_lowest,CPU_time,Wall_time
+ALLAML,14,8,98.57,3.19,LinearSVC,KGroups_max++,Fvalue,False,0:03:05.307120,0:03:06.667434
+CLL_SUB_111,15,9,79.29,8.21,LinearSVC,KGroups_max++,Fvalue,False,0:03:41.575832,0:03:43.182096
+Carcinom,2,2,35.68,6.65,LinearSVC,KGroups_max++,Fvalue,False,0:04:11.090239,0:04:12.854835
+GLIOMA,4,3,80.0,7.07,LinearSVC,KGroups_max++,Fvalue,False,0:03:08.531921,0:03:09.870204
+GLI_85,46,29,94.12,4.16,LinearSVC,KGroups_max++,Fvalue,False,0:03:25.667735,0:03:27.136819
+Prostate_GE,91,24,96.05,6.510000000000001,LinearSVC,KGroups_max++,Fvalue,False,0:03:15.275389,0:03:16.692154
+SMK_CAN_187,84,61,73.76,7.07,LinearSVC,KGroups_max++,Fvalue,False,0:04:32.406759,0:04:34.352793
+TOX_171,92,36,66.14999999999999,8.23,LinearSVC,KGroups_max++,Fvalue,False,0:04:30.877936,0:04:32.777011
+colon,52,26,88.59,9.35,LinearSVC,KGroups_max++,Fvalue,False,0:03:06.339046,0:03:07.685390
+leukemia,41,11,98.67,2.98,LinearSVC,KGroups_max++,Fvalue,False,0:02:58.690100,0:02:59.981628
+lung,73,24,95.56,2.71,LinearSVC,KGroups_max++,Fvalue,False,0:04:14.903146,0:04:16.744891
+lung_discrete,49,26,92.95,7.1499999999999995,LinearSVC,KGroups_max++,Fvalue,False,0:03:35.021525,0:03:36.562428
+lymphoma,52,33,92.68,8.0,LinearSVC,KGroups_max++,Fvalue,False,0:03:56.383395,0:03:58.078706
+nci9,2,2,26.67,6.97,LinearSVC,KGroups_max++,Fvalue,False,0:03:09.609774,0:03:10.960153

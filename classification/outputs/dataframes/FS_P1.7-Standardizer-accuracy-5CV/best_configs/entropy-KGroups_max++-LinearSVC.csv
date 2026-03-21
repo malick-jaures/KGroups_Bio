@@ -1,0 +1,15 @@
+dataset_name,num_desired_features,num_selected_features,test_accuracy,test_accuracy_std,model_name,selection_algorithm,valuation_method,include_lowest,CPU_time,Wall_time
+ALLAML,77,51,94.57,5.609999999999999,LinearSVC,KGroups_max++,entropy,False,0:03:03.572911,0:03:04.646357
+CLL_SUB_111,2,2,48.5,11.95,LinearSVC,KGroups_max++,entropy,False,0:03:10.054849,0:03:11.157485
+Carcinom,94,87,93.66,1.39,LinearSVC,KGroups_max++,entropy,False,0:05:21.445290,0:05:23.132797
+GLIOMA,6,6,84.0,8.94,LinearSVC,KGroups_max++,entropy,False,0:03:16.284939,0:03:17.397663
+GLI_85,2,2,68.24,13.54,LinearSVC,KGroups_max++,entropy,False,0:02:55.303595,0:02:56.329517
+Prostate_GE,19,19,95.1,6.13,LinearSVC,KGroups_max++,entropy,False,0:03:26.159127,0:03:27.351139
+SMK_CAN_187,17,14,64.14,12.18,LinearSVC,KGroups_max++,entropy,False,0:04:25.585958,0:04:27.119515
+TOX_171,11,9,53.28000000000001,6.8500000000000005,LinearSVC,KGroups_max++,entropy,False,0:04:06.315451,0:04:07.707716
+colon,53,21,82.31,10.66,LinearSVC,KGroups_max++,entropy,False,0:02:57.347212,0:02:58.384274
+leukemia,32,27,100.0,0.0,LinearSVC,KGroups_max++,entropy,False,0:03:02.206440,0:03:03.257807
+lung,66,52,94.05,4.2,LinearSVC,KGroups_max++,entropy,False,0:04:31.533229,0:04:33.068644
+lung_discrete,84,38,87.71,9.87,LinearSVC,KGroups_max++,entropy,False,0:03:26.654006,0:03:27.821444
+lymphoma,92,40,87.58,10.72,LinearSVC,KGroups_max++,entropy,False,0:03:42.501924,0:03:43.758665
+nci9,47,34,56.67,10.87,LinearSVC,KGroups_max++,entropy,False,0:03:42.343256,0:03:43.566008

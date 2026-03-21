@@ -1,0 +1,15 @@
+dataset_name,num_desired_features,num_selected_features,test_accuracy,test_accuracy_std,model_name,selection_algorithm,valuation_method,include_lowest,CPU_time,Wall_time
+ALLAML,10,10,98.67,2.98,RandomForest,SCSIG_d,cosine_sim + mutual_info,False,0:04:36.373621,0:01:07.949683
+CLL_SUB_111,82,82,88.3,6.859999999999999,RandomForest,SCSIG_d,cosine_sim + mutual_info,False,0:07:22.513415,0:01:27.354559
+Carcinom,97,97,91.34,5.46,RandomForest,SCSIG_d,cosine_sim + mutual_info,False,0:11:17.561074,0:02:09.817375
+GLIOMA,38,38,84.0,8.94,RandomForest,SCSIG_d,cosine_sim + mutual_info,False,0:03:15.218199,0:01:02.472413
+GLI_85,49,49,97.65,3.22,RandomForest,SCSIG_d,cosine_sim + mutual_info,False,0:06:32.267105,0:01:23.117620
+Prostate_GE,14,14,95.1,6.99,RandomForest,SCSIG_d,cosine_sim + mutual_info,False,0:07:16.786350,0:01:28.153868
+SMK_CAN_187,33,33,75.42,15.7,RandomForest,SCSIG_d,cosine_sim + mutual_info,False,0:13:34.111381,0:02:16.298718
+TOX_171,74,74,78.45,9.88,RandomForest,SCSIG_d,cosine_sim + mutual_info,False,0:09:48.105300,0:01:53.369013
+colon,8,8,88.59,9.62,RandomForest,SCSIG_d,cosine_sim + mutual_info,False,0:04:23.902262,0:01:05.443279
+leukemia,55,51,100.0,0.0,RandomForest,SCSIG_d,cosine_sim + mutual_info,False,0:04:05.045658,0:01:03.205609
+lung,20,20,96.06,1.34,RandomForest,SCSIG_d,cosine_sim + mutual_info,False,0:13:30.551517,0:02:24.281099
+lung_discrete,52,52,88.94999999999999,6.45,RandomForest,SCSIG_d,cosine_sim + mutual_info,False,0:06:26.388897,0:01:26.724427
+lymphoma,72,71,92.79,5.7299999999999995,RandomForest,SCSIG_d,cosine_sim + mutual_info,False,0:07:50.131151,0:01:33.054478
+nci9,95,95,63.33,9.5,RandomForest,SCSIG_d,cosine_sim + mutual_info,False,0:05:22.942753,0:01:16.653861

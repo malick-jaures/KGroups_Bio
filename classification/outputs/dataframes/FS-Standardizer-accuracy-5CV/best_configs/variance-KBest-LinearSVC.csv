@@ -1,0 +1,15 @@
+dataset_name,num_desired_features,num_selected_features,test_accuracy,test_accuracy_std,model_name,selection_algorithm,valuation_method,CPU_time,Wall_time
+ALLAML,95,95,84.67,11.24,LinearSVC,KBest,variance,0:03:06.841324,0:03:07.953045
+CLL_SUB_111,44,44,61.19,7.28,LinearSVC,KBest,variance,0:04:07.912971,0:04:09.292484
+Carcinom,97,97,83.33,5.510000000000001,LinearSVC,KBest,variance,0:11:57.807648,0:02:17.040627
+GLIOMA,61,61,76.0,11.4,LinearSVC,KBest,variance,0:03:08.916026,0:03:09.934413
+GLI_85,36,36,85.88,8.92,LinearSVC,KBest,variance,0:03:13.760642,0:03:14.829668
+Prostate_GE,66,66,76.48,5.3,LinearSVC,KBest,variance,0:03:18.789850,0:03:19.906194
+SMK_CAN_187,20,20,62.01,12.35,LinearSVC,KBest,variance,0:04:28.664888,0:04:30.252968
+TOX_171,77,77,64.94,18.52,LinearSVC,KBest,variance,0:12:51.600436,0:02:42.396776
+colon,100,100,78.97,15.17,LinearSVC,KBest,variance,0:03:05.132722,0:03:06.172394
+leukemia,3,3,93.05,8.75,LinearSVC,KBest,variance,0:02:58.085365,0:02:59.071967
+lung,79,79,91.12,2.83,LinearSVC,KBest,variance,0:05:12.733640,0:05:14.367243
+lung_discrete,68,68,84.95,2.81,LinearSVC,KBest,variance,0:03:24.505187,0:03:25.599800
+lymphoma,86,86,80.42,15.25,LinearSVC,KBest,variance,0:03:45.222060,0:03:46.428597
+nci9,63,63,53.33,19.18,LinearSVC,KBest,variance,0:03:32.915367,0:03:34.047082

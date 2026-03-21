@@ -1,0 +1,15 @@
+dataset_name,num_desired_features,num_selected_features,test_accuracy,test_accuracy_std,model_name,selection_algorithm,valuation_method,include_lowest,CPU_time,Wall_time
+ALLAML,89,83,98.67,2.98,MLP,SCSIG_i,cosine_sim + mutual_info,False,0:03:56.550051,0:00:59.058196
+CLL_SUB_111,47,47,77.51,10.55,MLP,SCSIG_i,cosine_sim + mutual_info,False,0:07:02.162532,0:01:25.173515
+Carcinom,90,90,87.92,2.5,MLP,SCSIG_i,cosine_sim + mutual_info,False,0:10:33.070642,0:02:03.888332
+GLIOMA,51,50,88.0,8.37,MLP,SCSIG_i,cosine_sim + mutual_info,False,0:02:55.788076,0:00:59.334618
+GLI_85,49,49,96.47,3.22,MLP,SCSIG_i,cosine_sim + mutual_info,False,0:06:17.010840,0:01:22.022274
+Prostate_GE,49,48,96.05,6.510000000000001,MLP,SCSIG_i,cosine_sim + mutual_info,False,0:07:06.449154,0:01:25.578955
+SMK_CAN_187,3,3,68.95,10.5,MLP,SCSIG_i,cosine_sim + mutual_info,False,0:13:35.001265,0:02:17.300843
+TOX_171,92,92,69.01,7.65,MLP,SCSIG_i,cosine_sim + mutual_info,False,0:10:19.428728,0:02:00.764840
+colon,26,30,90.26,10.68,MLP,SCSIG_i,cosine_sim + mutual_info,False,0:04:50.548938,0:01:09.912352
+leukemia,41,40,100.0,0.0,MLP,SCSIG_i,cosine_sim + mutual_info,False,0:04:15.055312,0:01:05.317954
+lung,97,97,96.06,2.19,MLP,SCSIG_i,cosine_sim + mutual_info,False,0:13:28.872434,0:02:26.739416
+lung_discrete,90,85,88.94999999999999,7.779999999999999,MLP,SCSIG_i,cosine_sim + mutual_info,False,0:06:19.860675,0:01:23.711160
+lymphoma,53,52,88.68,8.09,MLP,SCSIG_i,cosine_sim + mutual_info,False,0:07:52.141398,0:01:33.784422
+nci9,69,69,53.33,4.5600000000000005,MLP,SCSIG_i,cosine_sim + mutual_info,False,0:05:20.367308,0:01:17.146527
